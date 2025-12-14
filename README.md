@@ -1,4 +1,4 @@
-# Communities & Crime – Regression with XGBoost + Interpretability (SHAP)
+# Communities & Crime – Regression with Reduced-feature-models and XGBoost + Interpretability (SHAP)
 
 ## Project overview
 This project builds regression models to predict community-level violent crime rate (`ViolentCrimesPerPop`) using the UCI Communities and Crime dataset.  
